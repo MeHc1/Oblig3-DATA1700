@@ -4,7 +4,7 @@ OsloMet brukernavn: S385399
 
 GitHub brukernavn: MeHc1
 
-Github repo URL: https://github.com/MeHc1/Oblig1-DATA1700
+Github repo URL: https://github.com/MeHc1/Oblig3-DATA1700
 
 Fullt navn: Megerditch Stiegler Chadoyan
 
